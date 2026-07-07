@@ -1,1 +1,1 @@
-![ces](aa/b.png)
+![ces](/aa/b.png)
